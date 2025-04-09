@@ -11,7 +11,7 @@ const About = () => {
         transition={{ duration: 0.8 }}
         viewport={{ once: true }}
       >
-        <h2 className="text-4xl font-bold mb-6">About Me</h2>
+        <h2 className="text-4xl font-bold mb-6">Projects</h2>
         <p className="text-gray-400 text-lg">
         I’m a frontend-focused fullstack developer who loves turning ideas into interactive web experiences. 
         Currently deep into React and TypeScript — building, learning, and pushing code every single day.
